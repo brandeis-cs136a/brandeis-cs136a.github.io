@@ -1,5 +1,4 @@
 # Course description
----
 Speech recognition has had a huge resurgence in the past few years, both commercially and in the underlying technology. We can talk to Google, Siri, and Alexa to get information and carry out routine tasks. However, the technology is far from perfect when compared to human performance. There are still errors in recognizing the words, understanding the speakers intentions or providing an adequate response.
 
 This course will touch on all of the components in a spoken dialog system, including speech recognition, natural language understanding, dialog state tracking, and response generation. For each topic area in the course, there will be two important parts:
@@ -15,13 +14,13 @@ The main topics and examples of what we’ll cover are shown below:
 | NLP and frame-based dialog systems | Intents & Entities, dialog context | Dialogflow, Watson Conversation, Alexa |
 | Dialog research | Dialog state tracking, end-to-end dialog modeling, response generation | Machine learning and DNN packages |
 
-## Course Information
+# Course Information
 
-### Main course website: www.cs136a.mmeteer.com
+#### Main course website: www.cs136a.mmeteer.com
 
-### Professor
+#### Professor
 
-#####Marie Meteer
+##### Marie Meteer
 * mmeteer@brandeis.edu
 * Volen 139
 * Office Hours: (tentative)
@@ -29,13 +28,13 @@ The main topics and examples of what we’ll cover are shown below:
     * Wednesday 10 - 12
     * and by appointment
 
-### Teaching Assistant
+#### Teaching Assistant
 
-#### Keigh Rim
+##### Keigh Rim
 * krim@brandeis.edu
 * Office Hours: TBD
 
-### Course details
+#### Course details
 * T, F 9:30 - 10:50
 * Goldsmith Math 317
 
