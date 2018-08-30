@@ -16,12 +16,12 @@ The main topics and examples of what we’ll cover are shown below:
 
 # Course Information
 
-#### Main course website: www.cs136a.mmeteer.com
+#### Main course website: [www.cs136a.mmeteer.com](www.cs136a.mmeteer.com)
 
 #### Professor
 
 ##### Marie Meteer
-* mmeteer@brandeis.edu
+* [mmeteer@brandeis.edu](mailto:mmeteer@brandeis.edu)
 * Volen 139
 * Office Hours: (tentative)
     * Tuesday 1- 3
@@ -31,7 +31,7 @@ The main topics and examples of what we’ll cover are shown below:
 #### Teaching Assistant
 
 ##### Keigh Rim
-* krim@brandeis.edu
+* [krim@brandeis.edu](mailto:krim@brandeis.edu)
 * Office Hours: TBD
 
 #### Course details
