@@ -31,11 +31,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# Navigation configuration
-header_pages: []
-
 # Minima theme configuration
 minima:
+  # Navigation configuration for minima 3.0
+  nav_pages: ["2025/index.md"]
   # Refer to https://shopify.github.io/liquid/filters/date/ for date formats
   date_format: "%b %-d, %Y"
   # Generate social links in footer
