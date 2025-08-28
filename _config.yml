@@ -38,8 +38,8 @@ minima:
   # Refer to https://shopify.github.io/liquid/filters/date/ for date formats
   date_format: "%b %-d, %Y"
   # Generate social links in footer
-  social_links:
-    - { platform: github, user_url: "https://github.com/brandeis-cs136a" }
+  # social_links:
+    # - { platform: github, user_url: "https://github.com/brandeis-cs136a" }
   # Enable dark theme with auto switching based on system preference
   skin: auto
 

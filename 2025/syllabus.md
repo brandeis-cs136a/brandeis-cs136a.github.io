@@ -21,30 +21,19 @@ As a result of taking this course and fully engaging with the material and requi
 ## At a Glance
 
 * Course number: COSI136A
-
 * Prerequisites: Successful completion of a foundational machine learning course, specifically either
-
   * COSI 104A Introduction to Machine Learning, or 
-
   * COSI 114A Fundamentals of Natural Language Processing I
-
   * Or permission by the instructor
-
 * Class Meeting: Tuesdays, Fridays, 9:35 - 10:55am at Rosenstiel 118	
-
 * Teaching Team
-
   * Instructor: Kyeongmin “Keigh” Rim, [krim@brandeis.edu](mailto:krim@brandeis.edu)
-
   * Teaching Assistant: Yangyang Chen, [yangyangchen@brandeis.edu](mailto:yangyangchen@brandeis.edu) 
-
   * Office Hours (subject to rescheduling)
-
     * Tu, 11:00-11:45 am, 3:30-4:15 pm, Volen 256 (K)
-
     * Fr, 11:00-11:45 am, 3:30-4:15 pm, Volen 256 (K)
-
     * OH sign-up and meet links available on class moodle
+    * Yangyang’s OH schedule will be announced soon. 
 
 ## Class communication
 
@@ -70,20 +59,16 @@ There is no required textbook. We will use selected chapters from [Speech and La
 * *Class attendance: 10%* 
 * *Class participation: 5%* 
 * *Exams: 40%*
-* *Homework: 40% (10%*4 or 8% *5) (or more if decrease attendance)* 
+* *Homework: 40% (10% x 4)
 
 ## Grades for the semester
 
 Your final course grade is a weighted sum of all coursework. Letter grades are assigned using a fixed scale and a curve, ensuring a fair assessment of both absolute performance and relative standing within the class, reflecting collective understanding and course rigor.
 
 * [100, 90) range: The top 30% will receive an A+, the remainder an A.
-
 * [90, 80) range: The top 30% will receive a B+, the remainder a B.
-
 * [80, 60) range: C
-
 * [60, 40) range: D
-
 * Remaining: Failing grade
 
 ## Grades for Pop Quizzes and Attendance
