@@ -30,11 +30,11 @@ There is no required textbook. We will use selected chapters from [Speech and La
 
 # Components of Course Work
 
-* *In-class pop quizzes: 5%*
-* *Class attendance: 10%* 
-* *Class participation: 5%* 
-* *Exams: 40%*
-* *Homework: 40% (10% x 4)
+* In-class pop quizzes: 5%
+* Class attendance: 10%
+* Class participation: 5%
+* Exams: 40%
+* Homework: 40% (10% x 4)
 
 ## Grades for the semester
 
@@ -54,7 +54,7 @@ Pop quizzes will pop up sometimes, and they'll help us keep track of who's showi
 
 * Attendance: Your attendance will be determined by your participation in pop quizzes, and these participation percentages will be converted into points. Please refer to the policy section for information regarding unavoidable absences.
 
-  * >90%: 10 points (full score!), >70%: 8, >50%: 6, >30%: 4, >10%: 2, Rest: 0
+  * \>90%: 10 points (full score!), >70%: 8, >50%: 6, >30%: 4, >10%: 2, Rest: 0
 
 ## Grades for Homework
 
