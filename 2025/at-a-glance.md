@@ -12,5 +12,6 @@
   * Office Hours (subject to rescheduling)
     * Tu, 11:00-11:45 am, 3:30-4:15 pm, Volen 256 (K)
     * Fr, 11:00-11:45 am, 3:30-4:15 pm, Volen 256 (K)
-    * OH sign-up and meet links available on class moodle
-    * Yangyang’s OH schedule will be announced soon. 
+    * We, 04:30-05:30 pm, Volen 111 (Y)
+    * Th, 03:30-04:30 pm, Volen 111 (Y)
+    * OH sign-up and meet/zoom links available on class moodle
