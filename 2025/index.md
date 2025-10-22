@@ -29,10 +29,10 @@ FULL SYLLABUS is [here](syllabus).
 | 2025-09-30 | Probaility (more CLT, normal distribution) <br> Statistical Modeling (MLE) | <br> Chapter [3.1](https://web.stanford.edu/~jurafsky/slp3/3.pdf) , [17.1 - 17.4](https://web.stanford.edu/~jurafsky/slp3/17.pdf) of SLP3 | [slides](https://docs.google.com/presentation/d/e/2PACX-1vS1NHc--SpSp5MKLmm9BRgSZYCGfDigS5ebLDF3wKrmfHtNtnobppoNMFBPPTTU9mG_jjpqaxYmLInG/pub?start=false&loop=false&delayms=3000&slide=id.g383b74f8413_2_0) <br> [slides](https://docs.google.com/presentation/d/e/2PACX-1vRj4JZ3Jh35MSi8deNthz00u8k7aavMKgphSuNBCBwmAzUZu9f-RaMOk9c_G9p2nd1IIwyR1StEU7-0/pub?start=false&loop=false&delayms=3000&slide=id.p) |
 | 2025-10-03 | Statistical Modeling (MC, HMM) | | [slides](https://docs.google.com/presentation/d/e/2PACX-1vRj4JZ3Jh35MSi8deNthz00u8k7aavMKgphSuNBCBwmAzUZu9f-RaMOk9c_G9p2nd1IIwyR1StEU7-0/pub?start=false&loop=false&delayms=3000&slide=id.g384cadfe34b_0_196) |
 | 2025-10-10 | Statistical Modeling (Viterbi) | | [slides](https://docs.google.com/presentation/d/e/2PACX-1vRj4JZ3Jh35MSi8deNthz00u8k7aavMKgphSuNBCBwmAzUZu9f-RaMOk9c_G9p2nd1IIwyR1StEU7-0/pub?start=false&loop=false&delayms=3000&slide=id.g384f99da5e6_0_0) |
-| 2025-10-16 | Acoustic Model | [Appendix A of SLP3](https://web.stanford.edu/~jurafsky/slp3/A.pdf) | slides |
-| 2025-10-17 | Acoustic Model | | slides |
-| 2025-10-21  | Information Theory | | slides |
-| 2025-10-24  | Information Theory | | slides |
-| 2025-10-28  | Review | | |
+| 2025-10-16 | Acoustic Model (GMM) | [Appendix A of SLP3](https://web.stanford.edu/~jurafsky/slp3/A.pdf) | [slides](https://docs.google.com/presentation/d/e/2PACX-1vSvCQiqw0kb3QW-A9ZHWchWkPMH2gb2MCzDwW1XMWDDbVvpwZRBvfX16qDvAMlJBGaxwifXDMUfqsp-/pub?start=false&loop=false&delayms=3000&slide=id.p) |
+| 2025-10-17 | Acoustic Model (GMM EM) | | [slides](https://docs.google.com/presentation/d/e/2PACX-1vSvCQiqw0kb3QW-A9ZHWchWkPMH2gb2MCzDwW1XMWDDbVvpwZRBvfX16qDvAMlJBGaxwifXDMUfqsp-/pub?start=false&loop=false&delayms=3000&slide=id.g36ca4398095_0_9) |
+| 2025-10-21  | Acoustic Model (HMM-GMM EM) | | [slides](https://docs.google.com/presentation/d/e/2PACX-1vSvCQiqw0kb3QW-A9ZHWchWkPMH2gb2MCzDwW1XMWDDbVvpwZRBvfX16qDvAMlJBGaxwifXDMUfqsp-/pub?start=false&loop=false&delayms=3000&slide=id.g3f1a5fe36469e386_377) |
+| 2025-10-24  | Information Theory (ngram, AM+LM) | | slides |
+| 2025-10-28  | Informatio Theory (MaxEnt) | | slides |
 | 2025-10-31  | Midterm | | |
 
