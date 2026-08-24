@@ -10,7 +10,7 @@
   * Instructor: Kyeongmin “Keigh” Rim, [krim@brandeis.edu](mailto:krim@brandeis.edu)
   * Teaching Assistant: Yangyang Chen, [yangyangchen@brandeis.edu](mailto:yangyangchen@brandeis.edu) 
   * Office Hours (subject to rescheduling)
-    * Tu, 11:00-11:45 am, 2:15-3:00 pm, Volen 256 (K)
+    * Tu, 11:00-11:45 am, 4:00-4:15 pm, Volen 256 (K)
     * Th, 10:45-11:45 pm, Volen 256 (K)
     * Yangyang's OH is currently TBD
     * OH sign-up and meet/zoom links available on class moodle
