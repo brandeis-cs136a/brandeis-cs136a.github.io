@@ -1,4 +1,4 @@
-# Course Introduction and Learning Goals
+## Course Introduction and Learning Goals
 
 This course explores the central question of automatic speech recognition: *what does it mean to statistically model speech*?
 We begin with a compact tour of the mathematical foundations, from signals and probability to maximum likelihood and information theory, and how they shaped classical sequence models and max-ent classifiers.

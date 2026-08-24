@@ -5,7 +5,7 @@ title: 2026
 
 *Last updated: {{ "now" | date: "%B %e %Y" }}*
 
-FULL SYLLABUS is [here](syllabus).
+Read the [FULL SYLLABUS](syllabus).
 
 {% include_relative course-intro.md %}
 
