@@ -23,9 +23,9 @@ Let's talk about how to reach out!
 
 * **Moodle Message Boards are your go-to** for pretty much everything else: course announcements, shared readings, and any general, non-code questions. I'll be posting all important updates there, so please check your Moodle notifications regularly. Just a heads-up, all Moodle messages, and my personal emails, will only be sent to your official Brandeis email account.
 
-* For **private messages and individual requests, please use email**. We'll do our best to get back to you within 24 hours, not including holidays and weekends.
+* For **private messages and individual requests, please use email**. We'll do our best to get back to you within two business days.
 
-* Now, this is super important: **all technical questions about coding homework must go through the (private) GitHub Issue tracker**. Seriously, if you send code questions by email, we won't be able to answer them, and they'll be discarded. Also, make sure you use proper Markdown syntax and the provided question templates on GitHub, **not dumping screenshots** of your work. Issues that don't follow the templates or syntax will also be closed without an answer. Again, we'll do our best to get back to you within 24 hours, not including holidays and weekends. This system helps us keep all our technical discussions organized, ensures you receive the most efficient support possible, and helps you learn standard practices in the coder-writer community.
+* Now, this is super important: **all technical questions about homework must go through the (private) GitHub Issue tracker**. Seriously, if you send code questions by email, we won't be able to answer them, and they'll be discarded. Also, make sure you use proper Markdown syntax and the provided question templates on GitHub, **not dumping screenshots** of your work. Issues that don't follow the templates or syntax will also be closed without an answer. Again, we'll do our best to get back to you within two business days. This system helps us keep all our technical discussions organized, ensures you receive the most efficient support possible, and helps you learn standard practices in the coder-writer community.
 
 * And finally, our **office hours** are a great opportunity to connect! You can schedule an in-person appointment using the scheduler link on Moodle. To help us prepare, please send a quick note about the specific question or topic you'd like to discuss, if you can. If you prefer **a private conversation, please explicitly request** this in your scheduler note. Otherwise, **all office hour sessions are open to walk-ins, and you are welcome to drop by without an appointment**. However, scheduled appointments will ensure your questions and topics are prioritized. Please keep an eye on the scheduler for any adjustments due to holidays or personal matters; we'll also announce changes during class meetings. We look forward to seeing you!
 
@@ -34,21 +34,19 @@ Let's talk about how to reach out!
 ### Required books and other materials
 
 There is no required textbook. We will use selected chapters from [Speech and Language Processing (3rd ed. draft, web version](https://web.stanford.edu/~jurafsky/slp3/)), along with relevant conference and preprint papers. Additional required and recommended readings will be shared via Moodle posting.
+Some class meetings will be run as discussions of assigned readings and of your own submitted reports; preparation for those sessions is expected.
 
 ### Linux and command-line onboarding
 
-Proficiency with the Linux command line and the department compute cluster is expected for homework and the final project.
-Instead of in-class lecture time, onboarding will be provided as a self-guided tutorial with support through office hours and lab sessions early in the semester.
-Completing the onboarding module counts for 5% of the course grade (graded on completion, not correctness); it also prepares you for the remote-computing workflows used in every homework.
-<!-- TODO: TA/lab session availability unconfirmed; fallback is self-guided tutorial + office hours -->
+Proficiency with the Linux command line and the department compute cluster is expected for homework and the final project; the first programming assignment serves as a self-guided onboarding.
 
 ## Components of Course Work
 
-* Onboarding module: 5% (completion-graded)
 * In-class pop quizzes: 5%
 * Class attendance: 10%
+* Class participation: 5%
 * Midterm exam: 20%
-* Homework: 30% (10% x 3)
+* Homework: 30% (four programming assignments; individual weights announced with each handout)
 * Final project (group): 30% 
 
 ### Grades for the semester
@@ -61,7 +59,7 @@ Your final course grade is a weighted sum of all coursework. Letter grades are a
 * [60, 40) range: D
 * Remaining: Failing grade
 
-### Grades for Pop Quizzes and Attendance
+### Grades for Pop Quizzes, Attendance, and Participation
 
 Pop quizzes will pop up sometimes, and they'll help us keep track of who's showing up! We won't be doing traditional attendance taking, but how you do on quizzes is closely linked to how we’ll measure attendance. So, here's the lowdown on how both will be graded:
 
@@ -71,17 +69,28 @@ Pop quizzes will pop up sometimes, and they'll help us keep track of who's showi
 
   * \>90%: full score, >70%: 80%, >50%: 60%, >30%: 40%, >10%: 20%, Rest: 0
 
+* Participation: Your participation score reflects active contribution to class discussions, in particular the discussion sessions on assigned readings and submitted reports.
+
 ### Grades for Homework
 
-Grading for each homework varies, as the required artifact differs. This could be code, a technical report, a reflection report, or an essay. Please refer to the individual handouts for specific grading rubrics.
-We are also exploring weighting the three homeworks unequally based on their expected workload and complexity; any such adjustment will be announced before the first homework is released.
+There will be four programming assignments.
+Some are hands-on practice graded on completion; others combine a lightweight coding component, checked automatically, with a written report that carries the majority of the grade, and some reports will be discussed in class.
+Weights differ by expected workload and complexity and are announced with each handout, along with the due date and specific grading rubric.
 
 
 #### Homework Submission Policy
 
-All homework should be submitted through GitHub Classroom. We'll grade your work based on the version at up to three different checkpoints (the immediate previous commit or tag): right at **the deadline, 24 hours after, and 48 hours after**. To account for late submissions, the scores will be **multiplied by 1.0, 0.9, and 0.8** respectively. We'll always take the highest score out of these three for your final grade. Just a heads-up, submissions made **more than 48 hours after the deadline** (unless you have a pre-approved extension) **won't be graded and will receive a zero**.
+All homework should be submitted through GitHub Classroom.
+Each assignment is graded once, from the last commit pushed to the `main` branch when grading begins.
+Lateness is determined by the push timestamp recorded by GitHub (in US Eastern Time), not by commit time.
 
-Extensions are only granted in justified situations, and we kindly ask that you request them at least 24 hours before the original deadline. Generally, reasons like workload, time management, or personal travel aren't considered valid for an extension. When you request an extension, please include any relevant documentation.
+* Slip days: You have **5 slip days** for the semester, usable on programming assignments in whole-day units, with **at most 3 slip days on any single assignment**. Using a slip day carries no penalty and requires no request or justification; slip days are deducted automatically based on your final push time. Slip days are calendar days: weekends and holidays count.
+* Beyond slip days: Submissions later than your available slip days allow won't be graded and will receive a zero, unless you have a pre-approved extension.
+* Infrastructure failures: For assignments run on the department cluster, documented infrastructure problems (job IDs, scheduler output, and error logs, reported promptly when they occur) are grounds for an extension that does not consume slip days.
+
+Extensions beyond the slip-day budget are only granted in justified situations, and we kindly ask that you request them at least 24 hours before the original deadline. Generally, reasons like workload, time management, or personal travel aren't considered valid for an extension; that is what slip days are for. When you request an extension, please include any relevant documentation.
+
+Project milestone deadlines are firm; slip days and the late submission policy above do not apply to them.
 
 ### Grades for the Midterm Exam
 
@@ -97,6 +106,7 @@ The course ends with a group final project: teams of up to 3 students design, bu
 Multilingual speech systems are an especially encouraged direction, but the topic is open to team interests, and projects can be scoped to continue as a spring capstone or master's thesis.
 After the midterm exam, we will set aside in-class time for topic exploration, followed by team formation.
 Each team should discuss its topic and scope with the instructor before finalizing them for the pitch on the proposal day.
+Projects are expected to make use of the department GPU cluster, building on the deployment skills practiced in homework.
 
 Project milestones:
 
@@ -123,7 +133,7 @@ To create a focused and engaging learning environment, we kindly request that el
 
 ### Use of generative AI tools
 
-Unless instructed otherwise for individual assignment, quiz or exam, general policy for this course is to permit students to utilize instruct-tuned LLM tools (chatbots, code assistants, agents harnesses) for all assignments. Brandeis University maintains an institutional contract for the Google Gemini web application, which students are encouraged to leverage for this course. It is the student's unequivocal responsibility, though, to critically evaluate the validity and applicability of all LLM output submitted; ultimate accountability rests with the student. Any infraction of this policy will be categorized as academic misconduct. **Students are advised that AI policies may vary across different courses at Brandeis, and it is imperative to adhere to the specific expectations established for each course.**
+Unless instructed otherwise for individual assignment, quiz or exam, general policy for this course is to permit students to utilize instruct-tuned LLM tools (chatbots, code assistants, agent harnesses) for all assignments. Brandeis University maintains an institutional contract for the Google Gemini web application, which students are encouraged to leverage for this course. It is the student's unequivocal responsibility, though, to critically evaluate the validity and applicability of all LLM output submitted; ultimate accountability rests with the student. Running LLM-based coding assistants or agent harnesses on shared department computers, including the GPU cluster, is prohibited for security reasons (shared home directories can expose API keys and chat histories); such tools may be used on your own machine. Specific assignments may set additional rules. Any infraction of this policy will be categorized as academic misconduct. **Students are advised that AI policies may vary across different courses at Brandeis, and it is imperative to adhere to the specific expectations established for each course.**
 
 ### Accommodations
 
