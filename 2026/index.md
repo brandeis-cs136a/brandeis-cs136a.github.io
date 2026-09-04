@@ -50,13 +50,13 @@ Read the [FULL SYLLABUS](syllabus).
 
 ## Class Schedule
 
-(all future schedule is tentative)
+(all future schedule is tentative, slide decks are accessible via Moodle and require Brandeis login)
 
 | Date | Topic | Slides |
 |------------|-------|--------|
-| 2026-08-28 | Course overview | |
-| 2026-09-01 | Sound | |
-| 2026-09-04 | Sound | |
+| 2026-08-28 | Course overview | [Slides](https://moodle.brandeis.edu/pluginfile.php/475377/mod_resource/content/4/01-intro.html) |
+| 2026-09-01 | Sound I | [Slides](https://moodle.brandeis.edu/pluginfile.php/478299/mod_resource/content/2/02-sound-i.html) |
+| 2026-09-04 | Sound II | [Slides](https://moodle.brandeis.edu/pluginfile.php/478300/mod_resource/content/1/03-sound-ii.html) |
 | 2026-09-08 | Probability | |
 | 2026-09-10 | Statistics, Evaluation | |
 | 2026-09-15 | Linear algebra | |
