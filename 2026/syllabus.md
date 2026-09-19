@@ -80,13 +80,13 @@ Weights differ by expected workload and complexity and are announced with each h
 
 #### Homework Submission Policy
 
-All homework should be submitted through GitHub Classroom.
+All homework should be submitted by pushing to your assignment repository in the course GitHub organization.
 Each assignment is graded once, from the last commit pushed to the `main` branch when grading begins.
 Lateness is determined by the push timestamp recorded by GitHub (in US Eastern Time), not by commit time.
 
 * Slip days: You have **5 slip days** for the semester, usable on programming assignments in whole-day units, with **at most 3 slip days on any single assignment**. Using a slip day carries no penalty and requires no request or justification; slip days are deducted automatically based on your final push time. Slip days are calendar days: weekends and holidays count.
 * Beyond slip days: Submissions later than your available slip days allow won't be graded and will receive a zero, unless you have a pre-approved extension.
-* Infrastructure failures: For assignments run on the department cluster, documented infrastructure problems (job IDs, scheduler output, and error logs, reported promptly when they occur) are grounds for an extension that does not consume slip days.
+* Infrastructure failures: For assignments run on the department cluster, documented infrastructure problems (job IDs, scheduler output, and error logs, reported promptly when they occur) are grounds for an extension that does not consume slip days. Delays due to cluster load or queue wait times are not infrastructure failures; GPU resources are shared, so plan for the wait.
 
 Extensions beyond the slip-day budget are only granted in justified situations, and we kindly ask that you request them at least 24 hours before the original deadline. Generally, reasons like workload, time management, or personal travel aren't considered valid for an extension; that is what slip days are for. When you request an extension, please include any relevant documentation.
 

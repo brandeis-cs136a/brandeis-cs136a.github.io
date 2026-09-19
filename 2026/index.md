@@ -57,15 +57,15 @@ Read the [FULL SYLLABUS](syllabus).
 | 2026-08-28 | Course overview | [Slides](https://moodle.brandeis.edu/pluginfile.php/475377/mod_resource/content/4/01-intro.html) |
 | 2026-09-01 | Sound I | [Slides](https://moodle.brandeis.edu/pluginfile.php/478299/mod_resource/content/2/02-sound-i.html) |
 | 2026-09-04 | Sound II | [Slides](https://moodle.brandeis.edu/pluginfile.php/478300/mod_resource/content/1/03-sound-ii.html) |
-| 2026-09-08 | Probability | |
-| 2026-09-10 | Statistics, Evaluation | |
-| 2026-09-15 | Linear algebra | |
-| 2026-09-18 | Linear algebra | |
-| 2026-09-22 | MLE, MC, HMM | |
-| 2026-09-25 | Viterbi, GMM | |
-| 2026-09-29 | HMM-GMM, EM | |
+| 2026-09-08 | Sound III<br>Probability I | [Slides](https://moodle.brandeis.edu/pluginfile.php/480078/mod_resource/content/3/W03-1-sound-iii.html)<br>[Slides](https://moodle.brandeis.edu/pluginfile.php/480086/mod_resource/content/3/W03-2-prob-i.html) |
+| 2026-09-10 | Probability II | [Slides](https://moodle.brandeis.edu/pluginfile.php/480087/mod_resource/content/4/W03-3-prob-ii.html) |
+| 2026-09-15 | Evaluation<br>Statistical modeling I | [Slides](https://moodle.brandeis.edu/pluginfile.php/481855/mod_resource/content/1/W04-1-eval.html)<br>[Slides](https://moodle.brandeis.edu/pluginfile.php/481856/mod_resource/content/5/W04-2-stat-i.html) |
+| 2026-09-18 | Statistical modeling II | [Slides](https://moodle.brandeis.edu/pluginfile.php/481857/mod_resource/content/6/W04-3-stat-ii.html) |
+| 2026-09-22 | HMM-GMM I | |
+| 2026-09-25 | HMM-GMM II | |
+| 2026-09-29 | HMM-GMM III | |
 | 2026-10-02 | ngram LM | |
-| 2026-10-06 | MaxEnt | |
+| 2026-10-06 | Information theory | |
 | 2026-10-09 | Midterm | |
 | 2026-10-13 | | |
 | 2026-10-16 | | |
