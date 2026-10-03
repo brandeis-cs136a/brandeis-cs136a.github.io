@@ -61,10 +61,10 @@ Read the [FULL SYLLABUS](syllabus).
 | 2026-09-10 | Probability II | [Slides](https://moodle.brandeis.edu/pluginfile.php/480087/mod_resource/content/4/W03-3-prob-ii.html) |
 | 2026-09-15 | Evaluation<br>Statistical modeling I | [Slides](https://moodle.brandeis.edu/pluginfile.php/481855/mod_resource/content/1/W04-1-eval.html)<br>[Slides](https://moodle.brandeis.edu/pluginfile.php/481856/mod_resource/content/5/W04-2-stat-i.html) |
 | 2026-09-18 | Statistical modeling II | [Slides](https://moodle.brandeis.edu/pluginfile.php/481857/mod_resource/content/6/W04-3-stat-ii.html) |
-| 2026-09-22 | HMM-GMM I | |
-| 2026-09-25 | HMM-GMM II | |
-| 2026-09-29 | HMM-GMM III | |
-| 2026-10-02 | ngram LM | |
+| 2026-09-22 | HMM-GMM I | [Slides](https://moodle.brandeis.edu/pluginfile.php/483318/mod_resource/content/2/W05-1-hmmgmm-i.html) |
+| 2026-09-25 | HMM-GMM II<br>SSH | [Slides](https://moodle.brandeis.edu/pluginfile.php/483319/mod_resource/content/2/W05-2-hmmgmm-ii.html)<br>[Slides](https://moodle.brandeis.edu/pluginfile.php/483316/mod_resource/content/2/W05-3-ssh.html) |
+| 2026-09-29 | HMM-GMM III | [Slides](https://moodle.brandeis.edu/pluginfile.php/485052/mod_resource/content/3/W06-1-hmmgmm-iii.html) |
+| 2026-10-02 | Classical ASR | [Slides](https://moodle.brandeis.edu/pluginfile.php/485055/mod_resource/content/2/W06-2-classical.html) |
 | 2026-10-06 | Information theory | |
 | 2026-10-09 | Midterm | |
 | 2026-10-13 | | |
