@@ -15,7 +15,6 @@ Read the [FULL SYLLABUS](syllabus).
 
 (the topic list below is tentative; coverage may shift depending on the pace and depth of in-class discussion)
 
-<!-- TODO: allocate topics to ~25 Tu/Fr meetings, reserving sessions for the midterm, proposal discussion, and presentations -->
 <!-- TODO: re-link slides as they are revised from 2025 decks -->
 
 ### Module 1: Foundations
@@ -35,12 +34,12 @@ Read the [FULL SYLLABUS](syllabus).
 ### Module 3: Neural ASR
 
 1. Perceptron, MLP, and first AI winter ([Chapter 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf))
-1. Neural Renaissance: Bakcpropagation, Boltzmann machine, ReLU ([Chapter 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf))
+1. Neural renaissance: backpropagation, Boltzmann machine, ReLU ([Chapter 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf))
 1. Neural sequence models: RNN, LSTM ([Chapter 14](https://web.stanford.edu/~jurafsky/slp3/14.pdf))
 1. Neural speech-to-text: CTC, RNN-T ([Chapter 16.5](https://web.stanford.edu/~jurafsky/slp3/16.pdf))
 1. Multilingual ASR: Unicode and normalization ([Chapter 2.3](https://web.stanford.edu/~jurafsky/slp3/2.pdf), [UAX#15](https://www.unicode.org/reports/tr15/))
 1. Neural frontend: CNN, residual networks ([Chapter 16.2](https://web.stanford.edu/~jurafsky/slp3/16.pdf))
-1. Transformer: Attention, Self-attention vs. CNN, transformer architectures ([Chapter 7](https://web.stanford.edu/~jurafsky/slp3/8.pdf))
+1. Transformer: attention, self-attention vs. CNN, transformer architectures ([Chapter 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf))
 
 ### Module 4: Frontiers
 
@@ -50,7 +49,7 @@ Read the [FULL SYLLABUS](syllabus).
 
 ## Class Schedule
 
-(all future schedule is tentative, slide decks are accessible via Moodle and require Brandeis login)
+(the schedule ahead is tentative; slide decks are on Moodle and need a Brandeis login)
 
 | Date | Topic | Slides |
 |------------|-------|--------|
@@ -65,19 +64,19 @@ Read the [FULL SYLLABUS](syllabus).
 | 2026-09-25 | HMM-GMM II<br>SSH | [Slides](https://moodle.brandeis.edu/pluginfile.php/483319/mod_resource/content/2/W05-2-hmmgmm-ii.html)<br>[Slides](https://moodle.brandeis.edu/pluginfile.php/483316/mod_resource/content/2/W05-3-ssh.html) |
 | 2026-09-29 | HMM-GMM III | [Slides](https://moodle.brandeis.edu/pluginfile.php/485052/mod_resource/content/3/W06-1-hmmgmm-iii.html) |
 | 2026-10-02 | Classical ASR | [Slides](https://moodle.brandeis.edu/pluginfile.php/485055/mod_resource/content/2/W06-2-classical.html) |
-| 2026-10-06 | Information theory | |
+| 2026-10-06 | Information theory | [Slides](MOODLE-URL-W07-1-infotheory-i) |
 | 2026-10-09 | Midterm | |
-| 2026-10-13 | | |
-| 2026-10-16 | | |
-| 2026-10-20 | | |
-| 2026-10-23 | | |
-| 2026-10-27 | | |
-| 2026-10-30 | | |
-| 2026-11-03 | | |
-| 2026-11-06 | | |
-| 2026-11-10 | | |
-| 2026-11-13 | | |
-| 2026-11-17 | | |
-| 2026-11-20 | | |
-| 2026-11-24 | | |
-| 2026-12-01 | | |
+| 2026-10-13 | No class (Brandeis Monday) | |
+| 2026-10-16 | Information theory II<br>SLURM in practice | [Slides](https://moodle.brandeis.edu/pluginfile.php/487976/mod_resource/content/4/W08-1-infotheory-ii.html)<br>[Slides](https://moodle.brandeis.edu/pluginfile.php/487977/mod_resource/content/4/W08-2-slurm.html) |
+| 2026-10-20 | ASR evaluation discussion<br>Beyond transcription: other speech tasks and project topics | (no slides)<br>[Slides](https://moodle.brandeis.edu/pluginfile.php/489188/mod_resource/content/5/W09-2-project-i.html) |
+| 2026-10-23 | Neural acoustic model I | |
+| 2026-10-27 | Neural acoustic model II | |
+| 2026-10-30 | Character LM I | |
+| 2026-11-03 | Character LM II | |
+| 2026-11-06 | Synthesis | |
+| 2026-11-10 | Neural sequence model I | |
+| 2026-11-13 | Neural sequence model II | |
+| 2026-11-17 | Neural front-end | |
+| 2026-11-20 | Transformers I | |
+| 2026-11-24 | Transformers II | |
+| 2026-12-01 | LLM and MMLM | |
