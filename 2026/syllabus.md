@@ -46,8 +46,9 @@ Proficiency with the Linux command line and the department compute cluster is ex
 * Class attendance: 10%
 * Class participation: 5%
 * Midterm exam: 20%
-* Homework: 30% (four programming assignments; individual weights announced with each handout)
-* Final project (group): 30% 
+* Homework: 26% (three programming assignments: PA1 7%, PA2 12%, PA3 7%)
+* Final project (group): 34%
+* Extra credit: up to 8% (PA4, optional); the course total cannot exceed 100%
 
 ### Grades for the semester
 
@@ -73,9 +74,9 @@ Pop quizzes will pop up sometimes, and they'll help us keep track of who's showi
 
 ### Grades for Homework
 
-There will be four programming assignments.
+There will be three required programming assignments and one optional extra-credit assignment (PA4).
 Some are hands-on practice graded on completion; others combine a lightweight coding component, checked automatically, with a written report that carries the majority of the grade, and some reports will be discussed in class.
-Weights differ by expected workload and complexity and are announced with each handout, along with the due date and specific grading rubric.
+Weights differ by expected workload and complexity; each handout announces the due date and specific grading rubric.
 
 
 #### Homework Submission Policy
@@ -112,7 +113,8 @@ Project milestones:
 
 1. Proposal (5%): a 3-minute in-class pitch presenting the problem statement and motivation. 
 1. Mid-point check-in report (10%): submission of project documentation and a mid-point technical report, including the division of work among team members and the plan for the remaining work.
-1. Presentation (10%): a 10-minute in-person presentation during the final examination period.
+1. Presentation (13%): an in-person presentation of up to 20 minutes during the final examination period.
+1. Code and documentation (1%): the full code and documentation pushed to the team repository by 23:59 on the presentation day, checked for completeness.
 1. Self-evaluation report (5%): after the presentation day, each member submits a self-scoring of their own contribution and that of their teammates.
 
 While the project is completed and graded as a group, individual grades may be adjusted to reflect each member's contribution, as evidenced by the code repository history and the self-evaluation reports.
