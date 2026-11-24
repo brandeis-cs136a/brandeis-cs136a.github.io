@@ -71,11 +71,11 @@ Read the [FULL SYLLABUS](syllabus).
 | 2026-10-23 | Neural acoustic model I | [Slides](https://moodle.brandeis.edu/pluginfile.php/489718/mod_resource/content/5/W09-3-neural-am-i.html) |
 | 2026-10-27 | Neural acoustic model II | [Slides](https://moodle.brandeis.edu/pluginfile.php/491038/mod_resource/content/6/W10-1-neural-am-ii.html) |
 | 2026-10-30 | Neural seq2seq I | [Slides](https://moodle.brandeis.edu/pluginfile.php/491181/mod_resource/content/6/W10-2-seq2seq-i.html) |
-| 2026-11-03 | Unicode<br>Neural seq2seq II | |
-| 2026-11-06 | Neural seq2seq III  | |
-| 2026-11-10 | Project pitches<br>Neural seq2seq IV | |
-| 2026-11-13 | Neural front-end | |
-| 2026-11-17 | Synthesis | |
-| 2026-11-20 | Transformers I | |
-| 2026-11-24 | Transformers II | |
-| 2026-12-01 | LLM and MMLM | |
+| 2026-11-03 | Unicode<br>Neural seq2seq II | [Slides](https://moodle.brandeis.edu/pluginfile.php/492645/mod_resource/content/3/W11-1-unicode.html)<br>[Slides](https://moodle.brandeis.edu/pluginfile.php/492641/mod_resource/content/7/W11-2-seq2seq-ii.html) |
+| 2026-11-06 | Neural seq2seq III | [Slides](https://moodle.brandeis.edu/pluginfile.php/492642/mod_resource/content/8/W11-3-seq2seq-iii.html) |
+| 2026-11-10 | Project pitches<br>Neural seq2seq IV | (no slides)<br>[Slides](https://moodle.brandeis.edu/pluginfile.php/501323/mod_resource/content/9/W12-1-seq2seq-iv.html) |
+| 2026-11-13 | Neural seq2seq V<br>Neural codecs I | [Slides](https://moodle.brandeis.edu/pluginfile.php/501324/mod_resource/content/9/W12-2-seq2seq-v.html)<br>[Slides](https://moodle.brandeis.edu/pluginfile.php/501325/mod_resource/content/7/W12-3-codecs-i.html) |
+| 2026-11-17 | Neural codecs II | [Slides](https://moodle.brandeis.edu/pluginfile.php/503353/mod_resource/content/8/W13-1-codecs-ii.html) |
+| 2026-11-20 | Transformers I | [Slides](https://moodle.brandeis.edu/pluginfile.php/503354/mod_resource/content/8/W13-2-transformers-i.html) |
+| 2026-11-24 | Student presentation: speaker diarization<br>Transformers II | [Slides](https://moodle.brandeis.edu/pluginfile.php/505199/mod_resource/content/10/EEND-emery.pdf)<br>[Slides](https://moodle.brandeis.edu/pluginfile.php/505198/mod_resource/content/9/W14-1-transformers-ii.html) |
+| 2026-12-01 | Transformers III: speech transformers and speech-language models | |
